@@ -4,7 +4,7 @@
   <!-- Background layer -->
   <rect width="1000" height="1000" fill="none" />
   
-  <g id="z-logo-mark">
+  <g id="z-logo-mark" transform="translate(136, 9)">
     <!-- Top Half -->
     <path d="M309 600 Q309 590 399 500 T489 400 V390 H50 V202 H677 V489 Q597 569 557 610 H309 V600 Z" fill="#c00bfa" />
     
